@@ -16,9 +16,9 @@
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/sarthakrastogi)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/sarthakrastogi)
 
+## Stats
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakrastogi&theme=dracula&hide_langs_below=1" />
 
-## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakrastogi&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakrastogi&theme=tokyonight)
 
