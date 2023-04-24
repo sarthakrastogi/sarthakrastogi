@@ -5,17 +5,18 @@
 
 👨‍🎓 BSc in Programming and Data Science from IIT-M + B.Tech in Computer Science from MRU
 
-👨🏼‍💻 Previously Deep Learning intern @ Okkular.io
+👨🏼‍💻 Currently building AI apps at <a href="https://spaceandtime.io/">Space and Time Labs</a>
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sarthakrastogi)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/sarthakrastogi)
-[![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/sarthakrastogi)
+
+
+[!PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]
+
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/sarthakrastogi)
 [![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/sarthakrastogi)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/sarthakrastogi)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/sarthakrastogi)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/sarthakrastogi)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/sarthakrastogi)
 
 ## Stats
