@@ -3,7 +3,7 @@
 
 👨‍🎓 Graduated with BSc in Programming and Data Science from IIT Madras + B.Tech in Computer Science and ML from MRU
 
-👨🏼‍💻 3 years of ML research and software engineering experience in universities and startups around the world.
+👨🏼‍💻 3 years of ML research and software engineering experience in top universities and startups around the world.
 
 🏢 I build AI and vector search apps.
 
