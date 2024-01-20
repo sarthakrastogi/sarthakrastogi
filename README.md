@@ -1,13 +1,11 @@
 # Hi, I'm Sarthak Rastogi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </br>
 
-😄 Pronouns: he/him
+👨‍🎓 Graduated with BSc in Programming and Data Science from IIT Madras + B.Tech in Computer Science and ML from MRU
 
-👨‍🎓 BSc in Programming and Data Science from IIT-M + B.Tech in Computer Science from MRU
+👨🏼‍💻 3 years of ML research and software engineering experience in universities and startups around the world.
 
-👨🏼‍💻 2 years of internship experience in ML, and NLP
-
-🏢 Currently building Generative AI apps at <a href="https://spaceandtime.io/">Space and Time Labs</a>
+🏢 I build AI and vector search apps.
 
 ## Skills
 
